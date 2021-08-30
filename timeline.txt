@@ -7,3 +7,4 @@ This is a timeline of all events in my project. This is not vital information an
 8/27/21 (3): Began experimenting with vector graphics software. Default note finished since it's literally just two circles.
 8/30/21 (1): Finished prototype notes with vector graphics this time. Planning on adding more detail.
 8/30/21 (2): Added a skull to anti-note prototype. It looks sick and I'm proud of myself.
+8/30/21 (3): Changed default notes to four different colors: blue, red, green, and yellow.
