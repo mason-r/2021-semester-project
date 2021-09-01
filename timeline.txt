@@ -8,3 +8,4 @@ This is a timeline of all events in my project. This is not vital information an
 8/30/21 (1): Finished prototype notes with vector graphics this time. Planning on adding more detail.
 8/30/21 (2): Added a skull to anti-note prototype. It looks sick and I'm proud of myself.
 8/30/21 (3): Changed default notes to four different colors: blue, red, green, and yellow.
+9/1/21: Presented game idea to the class. Reception was overall positive with several questions. Mr. Jones was especially interested in Hello (BPM) 2021.
