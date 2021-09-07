@@ -10,4 +10,5 @@ This is a timeline of all events in my project. This is not vital information an
 8/30/21 (3): Changed default notes to four different colors: blue, red, green, and yellow.
 9/1/21: Presented game idea to the class. Reception was overall positive with several questions. Mr. Jones was especially interested in Hello (BPM) 2021.
 9/3/21: Began actual software development. Game is currently being created in GameMaker Studio 2. Progress is extremely slow as I have never used it before.
-9/7/21: Wrote first program in GMS. Program checks if key A, S, K, or L is pressed and updates a GUI with the previously pressed key.
+9/7/21 (1): Wrote first program in GMS. Program checks if key A, S, K, or L is pressed and updates a GUI with the previously pressed key.
+9/7/21 (2): Pseudocoded the entire game in Google Docs. Includes settings and credits menu.
